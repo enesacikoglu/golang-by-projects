@@ -1,6 +1,6 @@
 # Golang By Real Projects
 
-![golang](https://user-images.githubusercontent.com/21153996/53680336-2fe48f80-3ceb-11e9-8725-053c861167a2.png)
+![golang2](https://user-images.githubusercontent.com/21153996/53697916-43752080-3de7-11e9-986c-596be3bbb84e.png)
 
 
 ## Contents
